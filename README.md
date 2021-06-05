@@ -25,16 +25,16 @@
 
 | Pattern | Descrição | Status |
 |:-------:|:----------- |:------:|
-| [Chain of Responsibility](/behavioral/chain_of_responsibility.md) |  | ✘ |
-| [Command](/behavioral/command.md) | | ✘ |
-| [Iterator](/behavioral/iterator.md) | | ✘ |
-| [Mediator](/behavioral/mediator.md) | | ✘ |
-| [Memento](/behavioral/memento.md) |  | ✘ |
-| [Observer](/behavioral/observer.md) | | ✘ |
-| [State](/behavioral/state.md) |  | ✘ |
-| [Strategy](/behavioral/strategy.md) | | ✘ |
-| [Template](/behavioral/template.md) | | ✘ |
-| [Visitor](/behavioral/visitor.md) |  | ✘ |
+| [Chain of Responsibility](/behavioral/chain_of_responsibility.md) | Possibilita criar um conjunto de handles, o qual recebe um "pedido" processa e repassa para o próximo handles como argumento. | ✘ |
+| [Command](/behavioral/command.md) | Transforma um pedido em um objeto. Dessa forma, fornece a capacidade de parametrizar métodos com diferentes pedidos. | ✘ |
+| [Iterator](/behavioral/iterator.md) | Cria um mecanismo para percorrer um conjunto de objetos sem expor as representações | ✘ |
+| [Mediator](/behavioral/mediator.md) | Comunicação entre objetos, reduzindo as dependências de comunicação entre os objetos | ✘ |
+| [Memento](/behavioral/memento.md) | Padrão de projeto que permite realizar o backup e o restore do estado anterior | ✘ |
+| [Observer](/behavioral/observer.md) | Criar um mecanismo de notificação para todos os objetos que esteja observando um determinado objeto | ✘ |
+| [State](/behavioral/state.md) | Mecanismo que possibilita que um objeto consiga alterar o próprio comportamento de acordo com a mudança de estado.| ✘ |
+| [Strategy](/behavioral/strategy.md) | Encapsular algoritmos com responsabilidade similares | ✘ |
+| [Template](/behavioral/template.md) | Defini o "esqueleto" do comportamento que um determinado objeto deverá possuir | ✘ |
+| [Visitor](/behavioral/visitor.md) | Pattern que possibilita a criação de uma separação entre o comportamento dos objetos e o local de operação | ✘ |
 
 ## Concurrency Patterns
 
