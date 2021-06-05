@@ -14,12 +14,12 @@
 
 | Pattern | Descrição | Status |
 |:-------:|:----------- |:------:|
-| [Adapter](/structural/adapter.md) | | ✘ |
-| [Bridge](/structural/bridge.md) || ✘ |
-| [Composite](/structural/composite.md) | | ✘ |
-| [Decorator](/structural/decorator.md) | | ✘ |
-| [Facade](/structural/facade.md) | | ✘ |
-| [Proxy](/structural/proxy.md) | | ✘ |
+| [Adapter](/structural/adapter.md) | Adapter é um padrão de projeto que permite objetos com interfaces incompatíveis colaborarem entre si | ✘ |
+| [Bridge](/structural/bridge.md) | Possibilita criar um conjunto de subclasses partir de uma classe de forma hirarquicas| ✘ |
+| [Composite](/structural/composite.md) | Fornece a capacidade de criar objetos de forma estruturada | ✘ |
+| [Decorator](/structural/decorator.md) | Padrão que possibilita encapsular um objeto acrescentando ou modificando o comportamento do objeto original| ✘ |
+| [Facade](/structural/facade.md) | Fornece uma interface simplificada para uma biblioteca | ✘ |
+| [Proxy](/structural/proxy.md) | Permiti controlar o acesso ao um determinado objeto| ✘ |
 
 ## Behavioral Patterns
 
