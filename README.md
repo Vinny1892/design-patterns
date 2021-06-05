@@ -4,11 +4,11 @@
 
 | Pattern | Descrição | Status |
 |:-------:|:----------- |:------:|
-| [Factory Method](/creational/factory.md) |  | ✘ |
-| [Abstract Factory](/creational/abstract_factory.md) || ✘ |
-| [Builder](/creational/builder.md) | | ✘ |
-| [Prototype](/creational/prototype.md) | | ✘ |
-| [Singleton](/creational/singleton.md) |  | ✘ |
+| [Factory Method](/creational/factory.md) | Fornece uma interface para criar objetos de superclasse, mas permite que as subclasses alterem o tipo de objetos. | ✘ |
+| [Abstract Factory](/creational/abstract_factory.md) | Provê uma maneira de encapsular um grupo de Factories sem especificar as classes concretas. | ✘ |
+| [Builder](/creational/builder.md) | Produzir diferentes tipos e representações de um objeto usando o mesmo código de construção | ✘ |
+| [Prototype](/creational/prototype.md) | Permite copiar objetos existentes sem aumentar a dependencia do código| ✘ |
+| [Singleton](/creational/singleton.md) | Permite que uma classe tenha apenas uma instância de um objeto, provendo um único ponto de acesso global para essa instância. | ✘ |
 
 ## Structural Patterns
 
