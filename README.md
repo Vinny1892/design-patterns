@@ -19,7 +19,7 @@
 | [Composite](/structural/composite.md) | Fornece a capacidade de criar objetos de forma estruturada | ✘ |
 | [Decorator](/structural/decorator.md) | Padrão que possibilita encapsular um objeto acrescentando ou modificando o comportamento do objeto original| ✘ |
 | [Facade](/structural/facade.md) | Fornece uma interface simplificada para uma biblioteca | ✘ |
-| [Proxy](/structural/proxy.md) | Permiti controlar o acesso ao um determinado objeto| ✘ |
+| [Proxy](/structural/proxy.md) | Permiti controlar o acesso de um objeto com um determinado recurso | ✘ |
 
 ## Behavioral Patterns
 
